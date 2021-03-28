@@ -1,0 +1,3622 @@
+/* Extra small device responsive  */
+@media only screen and (max-width: 575px) {
+    html,
+    html body,
+    body {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        overflow-x: hidden;
+    }
+    .container{
+        max-width: 100%;
+    }
+  
+      .main-nav .container{
+          max-width: 100%;
+          padding: 0px;
+      }
+    #header-area{}
+
+#header-area .main-header{
+   
+}
+
+ .main-header .main-header-wrapper{
+
+}
+.main-header .main-header-wrapper span{
+    
+}
+ .main-header .main-header-wrapper .main-left-content{
+  
+}
+ .main-header .main-header-wrapper .main-left-content .phone-icon{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span i{
+
+}
+ .main-header .main-header-wrapper .main-left-content .phone-number{
+   
+}
+
+ .main-header .main-header-wrapper .main-left-content .phone-number span{
+   
+}
+ .main-header .main-header-wrapper .main-md-content{
+    
+   
+}
+ .main-header .main-header-wrapper .main-md-content .message-icon{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span i{
+   
+}
+ .main-header .main-header-wrapper .main-md-content .email{
+    
+}
+ .main-header .main-header-wrapper .main-md-content .email span{}
+ .main-header .main-header-wrapper .main-right-content{
+    
+}
+ .main-header .main-header-wrapper .main-right-content span{
+   
+  
+}
+ .main-header .main-header-wrapper .main-right-content span i{
+   
+}
+.main-header .main-header-wrapper .main-right-content span i:hover{
+
+
+}
+.main-header .main-header-wrapper .main-right-content span:first-child{
+   
+}
+/* main header end  */
+/* main nav start  */
+.main-nav{
+    padding: 0px 0px;
+    max-width: 100%;
+}
+.main-nav .navbar{
+    
+}
+.main-nav .navbar .logo{
+    margin: auto;
+}
+.main-nav .navbar .logo a{}
+.main-nav .navbar .logo a img{}
+.main-nav .navbar button {
+    /* border: 0px; */
+    /* outline: 0; */
+    padding: 0;
+    color: white;
+    margin-right: 15px;
+}
+.main-nav .navbar button:focus{
+    outline: none;
+    border: 0;
+}
+.main-nav .navbar button span{
+    padding: 10px 15px;
+    display: inline-block;
+    border: 1px solid #ff5200;
+}
+.main-nav .navbar button span i{
+    color: #ff5200;
+}
+.main-nav .navbar .navbar-inner{
+    background-color: #222222;
+    margin-top: 6px;
+}
+.main-nav  .navbar-inner .navbar-nav{
+   
+margin: 0;
+}
+.main-nav  .navbar-inner .navbar-nav li {
+   
+/* margin-left: 20px; */
+   
+padding-left: 20px;
+   
+margin-left: 0px;
+   
+display: block;
+   
+border-bottom: 1px solid gray;
+}
+.main-nav  .navbar-inner .navbar-nav li a{
+   
+color: white;
+   
+padding: 15px 0px;
+   
+letter-spacing: 0px;
+   
+/* display: block; */
+   
+/* border-bottom: 1px solid; */
+   
+font-weight: 600;
+}
+.main-nav  .navbar-inner .navbar-nav li span{
+    /* display: inline-block; */
+    float: right;
+    margin-right: 14px;
+    margin-top: 12px;
+    border: 1px solid gray;
+}
+.main-nav  .navbar-inner .navbar-nav li span i{
+  
+display: inline-block;
+  
+padding: 6px 10px;
+  
+line-height: 1;
+  
+color: white;
+}
+
+
+.main-nav .navbar .navbar-inner .navbar-nav li  .dropdown-main{
+  
+background-color: #222222;
+  
+width: 100%;
+  
+top: 52px;
+  
+left: 0px;
+}
+.main-nav  .navbar-inner .navbar-nav li:hover  .dropdown-main{
+  
+ 
+   
+   
+
+}
+.dropdown-main ul li {
+    display: block;
+    /* margin-left: 38px !important; */
+    padding-left: 20px !important;
+}
+.dropdown-main li a{
+    
+}
+.dropdown-main li a:hover {
+    
+}
+.dropdown-main li::before{
+    
+}
+
+.dropdown-main li:hover::before{
+   
+    
+   
+}
+.dropdown-main li:hover{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li a{
+    
+}
+.main-nav .navbar .navbar-inner .navbar-nav li a span{}
+.main-nav .navbar .navbar-inner .navbar-nav li a span i{}
+.main-nav .navbar .navbar-inner .navbar-nav li a:hover{
+    
+}
+.header-search {
+    position: absolute;
+    top: 24px;
+    left: 15px;
+    width: 20px;
+    height: 20px;
+    line-height: 1;
+}
+
+.header-search a i {
+    color: #ff5200;
+}
+/* main nav end  */
+/* home section start  */
+#home{}
+#home .home-item{
+  
+padding: 63px 0px;
+}
+#home .home-item .home-inner{
+   
+width: 70%;
+   
+text-align: center;
+   
+margin: auto;
+}
+.home-active{
+    
+}
+.home-active .slick-dots{
+
+left: 45%;
+}
+.home-active .slick-dots li{
+
+
+}
+.home-active .slick-dots li.slick-active button{
+    
+}
+.home-active .slick-dots li button{
+  
+}
+#home .home-item .home-inner h2{
+    
+font-size: 27px;
+}
+#home .home-item .home-inner p{
+  
+}
+#home .home-item .home-inner a{
+   
+}
+/* home section end  */
+/* services area start  */
+#services-area{
+
+padding: 50px 0px 20px 0px;
+}
+#services-area .services-wrapper{
+   
+margin-bottom: 30px;
+}
+#services-area .services-wrapper span{}
+#services-area .services-wrapper span i{
+    
+}
+#services-area .services-wrapper h5{
+ 
+  
+    
+}
+#services-area .services-wrapper h5 a{
+ 
+
+}
+#services-area .services-wrapper p{
+   
+}
+
+#services-area .services-wrapper .service-link {
+  
+}
+#services-area .services-wrapper .service-link  i{
+   
+}
+
+#services-area .services-wrapper:hover{
+   
+    
+}
+#services-area .services-wrapper:hover span i{
+    
+}
+#services-area .services-wrapper:hover h5 a{
+
+}
+#services-area .services-wrapper:hover p{
+    
+}
+#services-area .services-wrapper:hover .service-link{
+    
+}
+#services-area .services-wrapper:hover .service-link i{
+   
+}
+#services-area .active-wrapper{
+    
+   
+}
+#services-area .active-wrapper span i{
+ 
+   
+}
+#services-area .active-wrapper h5 a{
+    
+   
+}
+#services-area .active-wrapper p{
+    
+   
+}
+#services-area .active-wrapper .service-link{
+    
+   
+}
+#services-area .active-wrapper .service-link i{
+   
+   
+}
+/* services area end  */
+/* team area start  */
+#team-area{
+    
+padding: 50px 0px 20px 0px;
+}
+#team-area .team-image{}
+#team-area .team-image img{}
+#team-area .team-content{
+    
+margin: 0px;
+}
+#team-area .team-content h2{
+   
+}
+#team-area .team-content p{
+    
+   
+}
+#team-area .team-content ul{
+ 
+margin: 35px 12px;
+}
+#team-area .team-content ul li{
+    
+   
+ 
+}
+#team-area .team-content ul li a{
+   
+}
+#team-area .team-content ul li i{
+    
+}
+#team-area .team-content a{}
+
+#team-area .team-content ul li:nth-last-child(even){
+ 
+}
+#team-area .team-content ul li a:hover{
+  
+}
+#team-area .team-content ul li:hover i{
+   
+}
+/* team area end  */
+/* counter area start  */
+#counter-area{
+   
+padding: 50px 0px 20px 0px;
+}
+#counter-area .counter-inner{
+   
+margin-bottom: 30px;
+}
+#counter-area .counter-inner .counter-icon {
+  
+}
+#counter-area .counter-inner .counter-icon  i{
+   
+}
+#counter-area .counter-inner .counter-number{}
+#counter-area .counter-inner .counter-number span{
+  
+}
+#counter-area .counter-inner h5{
+  
+}
+/* counter area end  */
+/* about area start  */
+#about-area{
+ 
+padding: 50px 0px 20px 0px;
+}
+ .about-inner{
+  
+width: 100%;
+}
+ .about-inner h2{
+  
+font-size: 30px;
+}
+ .about-inner h2::after{
+   
+top: 54px;
+}
+ .about-inner p{}
+.about-wrapper{
+    
+}
+.about-wrapper .about-card{
+   
+margin-bottom: 30px;
+   
+text-align: center;
+}
+.about-wrapper .about-card img{
+    
+}
+.about-wrapper .about-card .card-body{
+   
+}
+.about-wrapper .about-card .card-body .card-title{
+   
+}
+.about-wrapper .about-card .card-body .card-text{
+    
+}
+
+/* about area end  */
+/* price section start  */
+#price-section {
+
+padding: 50px 0px 20px 0px;
+}
+.price-wrapper{
+   
+}
+
+.price-wrapper .price-inner {
+  
+text-align: center;
+  
+margin-bottom: 30px;
+}
+.price-wrapper .price-inner  h5{
+  
+}
+.price-wrapper .price-inner  span{
+  
+}
+.price-wrapper .price-inner  span span{
+   
+
+   
+
+}
+.price-wrapper .price-inner  ul{
+  
+}
+.price-wrapper .price-inner ul li{
+ 
+}
+.price-wrapper .price-inner  ul li i{
+    
+display: none;
+}
+.price-wrapper .price-inner   .btn{
+ 
+}
+/* price section end  */
+/* support section start  */
+#support-area{
+}
+#support-area .support-img{}
+#support-area .support-img img{}
+#support-area .support-wrapper{
+   
+text-align: center;
+   
+/* padding-right: 0px; */
+   
+padding: 34px 20px 0px 20px;
+}
+#support-area .support-wrapper .support-content{}
+#support-area .support-wrapper .support-content h2{
+  
+}
+#support-area .support-wrapper .support-content p{
+  
+}
+#support-area .support-inner{
+   
+}
+#support-area .support-inner .support-innerright-content{
+ 
+justify-content: start;
+ 
+margin-left: 90px;
+ 
+margin-bottom: 30px;
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon i{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-text{}
+#support-area .support-inner .support-innerright-content .support-inner-text h5{
+ 
+}
+#support-area .support-inner .support-innerright-content .support-inner-text p{
+   
+}
+/* support section end  */
+/* team member start  */
+#team-member{
+    
+padding: 50px 0px 20px 0px;
+}
+ .team-member-wrapper{
+   
+}
+ .team-member-wrapper .member-card{
+   
+margin-bottom: 30px;
+}
+ .team-member-wrapper .member-card .card-body{
+   
+   
+}
+ .team-member-wrapper .member-card img{}
+ .team-member-wrapper .member-card .member-overlay{
+   
+}
+ .team-member-wrapper .member-card:hover .member-overlay{
+   
+   
+   
+}
+ .team-member-wrapper .member-card .member-overlay span{
+   
+ 
+
+ 
+   
+}
+ .team-member-wrapper .member-card:hover .member-overlay span{
+   
+  
+}
+
+
+
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1){
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4){
+   
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1) i{
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2) i{
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3) i{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4) i{
+
+   
+    
+
+}
+
+ .team-member-wrapper .member-card .member-overlay span{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span i{
+ 
+}
+ .team-member-wrapper .member-card .member-overlay span i:hover{
+   
+
+}
+ .team-member-wrapper .member-card h5{}
+ .team-member-wrapper .member-card h5 p{}
+
+/* team member end  */
+/* project area start  */
+#project-area{
+    
+padding: 50px 0px 20px 0px;
+}
+ .project-wrapper{
+   
+}
+ .project-wrapper .project-inner{}
+ .project-wrapper .project-card{
+  
+}
+
+ .project-wrapper .project-card img{}
+ .project-wrapper .project-card .card-body{
+ 
+}
+.project-wrapper .project-card:hover .card-body{
+    
+}
+ .project-wrapper .project-card .card-body .card-title{
+   
+}
+ .project-wrapper .project-card .card-body .card-text{
+    
+}
+ .project-wrapper .project-card .project-card-footer {
+    
+
+}
+.project-wrapper .project-card .project-card-footer a{
+  
+}
+.project-wrapper .project-card:hover .project-card-footer {
+  
+}
+ .project-wrapper .project-card .project-card-footer a:hover{}
+/* project area end  */
+/* news area start  */
+#news-area{
+  
+padding: 50px 0px 20px 0px;
+}
+.news-area-wrapper{
+    
+}
+.news-area-wrapper .news-card{
+   
+text-align: center;
+   
+margin-bottom: 30px;
+}
+
+.news-area-wrapper .news-card img{
+    
+   
+}
+.news-area-wrapper .news-card:hover img{
+ 
+    
+}
+.news-area-wrapper .news-card .card-body{
+   
+padding: 27px 40px 27px 40px;
+   
+/* margin-bottom: 30px; */
+}
+.news-area-wrapper .news-card .card-body .news-comment{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child::after{
+   
+}
+.news-area-wrapper .news-card .card-body .news-comment span:last-child{
+
+}
+.news-area-wrapper .news-card .card-body h5{
+   
+}
+.news-area-wrapper .news-card .card-body h5:hover{
+
+  
+}
+.news-area-wrapper .news-card .card-body p{}
+.news-area-wrapper .news-card .card-footer{
+   
+}
+.news-area-wrapper .news-card .card-footer a{
+   
+}
+.news-area-wrapper .news-card .card-footer a:hover{}
+/* news area end  */
+/* subscribe area start  */
+#subscribe-area{
+   
+}
+.subscribe-wrapper{
+  
+}
+.subscribe-inner1{
+    margin-bottom: 19px;
+    text-align: center;
+}
+.subscribe-inner1 .inner1-heading{}
+.subscribe-inner1 .inner1-heading h5{
+    
+}
+.subscribe-inner1 .inner1-input{
+   
+}
+.subscribe-inner1 .inner1-input input{
+   
+padding: 10px 50px 10px 10px;
+}
+.subscribe-inner1 .inner1-input button{
+   
+padding: 10px 35px 10px 28px;
+}
+.subscribe-inner1 .inner1-input button:focus{
+  
+}
+.subscribe-inner2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.subscribe-inner2 .inner2-heading{}
+.subscribe-inner2 .inner2-heading h5{
+    
+}
+.subscribe-inner2 .inner2-info{}
+.subscribe-inner2 .inner2-info span:first-child{
+  
+}
+.subscribe-inner2 .inner2-info span:last-child{
+  
+}
+.subscribe-inner3{
+    text-align: center;
+}
+.subscribe-inner3 .inner3-heading{}
+.subscribe-inner3 .inner3-heading h5{
+   
+}
+.subscribe-inner3 .inner3-icon{
+   
+}
+.subscribe-inner3 .inner3-icon span{
+  
+}
+.subscribe-inner3 .inner3-icon span:hover{
+  
+}
+.subscribe-inner3 .inner3-icon span i{}
+.subscribe-inner3 .inner3-icon span i:hover{
+    
+}
+/* subscribe-area end  */
+/* footer area start  */
+#footer-area{
+  
+}
+.footer-wrapper{
+  
+}
+.footer-inner1{
+    
+text-align: center;
+    
+padding: 0px 80px;
+    
+margin-bottom: 30px;
+}
+.footer-inner1 h5{
+    
+}
+.footer-inner1 p{
+   
+}
+.footer-inner1 .footer-icon{}
+.footer-inner1 .footer-icon span{
+ 
+}
+.footer-inner1 .footer-icon span i{}
+.footer-inner1 .footer-icon span i:hover{}
+.footer-inner2{
+    text-align: center;
+    margin-bottom: 29px;
+}
+.footer-inner2 h5{
+   
+}
+.footer-inner2 .inner2-contact{
+    
+justify-content: start;
+    
+margin-left: 151px;
+}
+.footer-inner2 .inner2-contact .contact-icon{
+    margin-right: 18px;
+}
+.footer-inner2 .inner2-contact .contact-icon span{
+  
+}
+.footer-inner2 .inner2-contact .contact-icon span i{}
+.footer-inner2 .inner2-contact .inner2-content{
+    
+}
+.footer-inner2 .inner2-contact .inner2-content span{
+ 
+}
+.footer-inner2 .inner2-contact .inner2-content span:first-child{}
+.footer-inner2 .inner2-contact .inner2-content span:last-child{}
+.footer-inner3{
+  
+text-align: center;
+  
+margin-right: 0px;
+}
+.footer-inner3 h5{
+    
+}
+.footer-inner3 p{
+    
+}
+.footer-inner3 .footer-list{}
+.footer-inner3 .footer-list ul{}
+.footer-inner3 .footer-list ul li{
+   
+border: none;
+}
+.footer-inner3 .footer-list ul li a{
+    
+}
+.footer-inner3 .footer-list ul li a i{
+  
+display: none;
+}
+.footer-inner4{
+   
+text-align: center;
+   
+padding-right: 0px;
+}
+.footer-inner4 h5{
+    
+}
+.footer-inner4 .post-content{
+    
+margin-left: 0px;
+    
+flex-direction: column;
+}
+.footer-inner4 .post-content .post-left{}
+.footer-inner4 .post-content .post-left span:first-child{
+    
+}
+.footer-inner4 .post-content .post-left span:last-child{
+   
+}
+.footer-inner4 .post-content .post-right{
+    
+}
+.footer-inner4 .post-content .post-right h6{
+    
+}
+.footer-inner4 .post-content .post-right span{
+   
+}
+.footer-inner4 .post-content .post-right span i{}
+.footer-bottom{
+    
+}
+.footer-bottom .footer-last-content{
+    text-align: center;
+}
+.footer-bottom .footer-last-content p{}
+.footer-bottom .footer-last-list{
+    text-align: center;
+}
+.footer-bottom .footer-last-list ul{}
+.footer-bottom .footer-last-list ul li{
+    
+}
+.footer-bottom .footer-last-list ul li a{
+    
+}
+/* footer area end  */
+ }
+
+/*  small device responsive  */
+@media only screen and (min-width:576px) and (max-width: 767px) { 
+    .container{
+        max-width: 100%;
+    }
+  
+      .main-nav .container{
+          max-width: 100%;
+          padding: 0px;
+      }
+    #header-area{}
+
+#header-area .main-header{
+   
+}
+
+ .main-header .main-header-wrapper{
+
+}
+.main-header .main-header-wrapper span{
+    
+}
+ .main-header .main-header-wrapper .main-left-content{
+  
+}
+ .main-header .main-header-wrapper .main-left-content .phone-icon{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span i{
+
+}
+ .main-header .main-header-wrapper .main-left-content .phone-number{
+   
+}
+
+ .main-header .main-header-wrapper .main-left-content .phone-number span{
+   
+}
+ .main-header .main-header-wrapper .main-md-content{
+    
+   
+}
+ .main-header .main-header-wrapper .main-md-content .message-icon{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span i{
+   
+}
+ .main-header .main-header-wrapper .main-md-content .email{
+    
+}
+ .main-header .main-header-wrapper .main-md-content .email span{}
+ .main-header .main-header-wrapper .main-right-content{
+    
+}
+ .main-header .main-header-wrapper .main-right-content span{
+   
+  
+}
+ .main-header .main-header-wrapper .main-right-content span i{
+   
+}
+.main-header .main-header-wrapper .main-right-content span i:hover{
+
+
+}
+.main-header .main-header-wrapper .main-right-content span:first-child{
+   
+}
+/* main header end  */
+/* main nav start  */
+.main-nav{
+    padding: 0px 0px;
+    max-width: 100%;
+}
+.main-nav .navbar{
+    
+}
+.main-nav .navbar .logo{
+    margin: auto;
+}
+.main-nav .navbar .logo a{}
+.main-nav .navbar .logo a img{}
+.main-nav .navbar button {
+    /* border: 0px; */
+    /* outline: 0; */
+    padding: 0;
+    color: white;
+    margin-right: 15px;
+}
+.main-nav .navbar button:focus{
+    outline: none;
+    border: 0;
+}
+.main-nav .navbar button span{
+    padding: 10px 15px;
+    display: inline-block;
+    border: 1px solid #ff5200;
+}
+.main-nav .navbar button span i{
+    color: #ff5200;
+}
+.main-nav .navbar .navbar-inner{
+    background-color: #222222;
+    margin-top: 6px;
+}
+.main-nav  .navbar-inner .navbar-nav{
+   
+margin: 0;
+}
+.main-nav  .navbar-inner .navbar-nav li {
+   
+/* margin-left: 20px; */
+   
+padding-left: 20px;
+   
+margin-left: 0px;
+   
+display: block;
+   
+border-bottom: 1px solid gray;
+}
+.main-nav  .navbar-inner .navbar-nav li a{
+   
+color: white;
+   
+padding: 15px 0px;
+   
+letter-spacing: 0px;
+   
+/* display: block; */
+   
+/* border-bottom: 1px solid; */
+   
+font-weight: 600;
+}
+.main-nav  .navbar-inner .navbar-nav li span{
+    /* display: inline-block; */
+    float: right;
+    margin-right: 14px;
+    margin-top: 12px;
+    border: 1px solid gray;
+}
+.main-nav  .navbar-inner .navbar-nav li span i{
+  
+display: inline-block;
+  
+padding: 6px 10px;
+  
+line-height: 1;
+  
+color: white;
+}
+
+
+.main-nav .navbar .navbar-inner .navbar-nav li  .dropdown-main{
+  
+background-color: #222222;
+  
+width: 100%;
+  
+top: 52px;
+  
+left: 0px;
+}
+.main-nav  .navbar-inner .navbar-nav li:hover  .dropdown-main{
+  
+ 
+   
+   
+
+}
+.dropdown-main ul li {
+    display: block;
+    /* margin-left: 38px !important; */
+    padding-left: 20px !important;
+}
+.dropdown-main li a{
+    
+}
+.dropdown-main li a:hover {
+    
+}
+.dropdown-main li::before{
+    
+}
+
+.dropdown-main li:hover::before{
+   
+    
+   
+}
+.dropdown-main li:hover{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li a{
+    
+}
+.main-nav .navbar .navbar-inner .navbar-nav li a span{}
+.main-nav .navbar .navbar-inner .navbar-nav li a span i{}
+.main-nav .navbar .navbar-inner .navbar-nav li a:hover{
+    
+}
+.header-search {
+    position: absolute;
+    top: 24px;
+    left: 15px;
+    width: 20px;
+    height: 20px;
+    line-height: 1;
+}
+
+.header-search a i {
+    color: #ff5200;
+}
+/* main nav end  */
+/* home section start  */
+#home{}
+#home .home-item{
+  
+}
+#home .home-item .home-inner{
+   
+margin: auto;
+   
+text-align: center;
+}
+.home-active{
+    
+}
+.home-active .slick-dots{
+
+
+
+
+}
+.home-active .slick-dots li{
+
+
+}
+.home-active .slick-dots li.slick-active button{
+    
+}
+.home-active .slick-dots li button{
+  
+}
+#home .home-item .home-inner h2{
+    
+font-size: 23px;
+}
+#home .home-item .home-inner p{
+  
+}
+#home .home-item .home-inner a{
+   
+}
+/* home section end  */
+/* services area start  */
+#services-area{
+
+padding: 50px 0px 20px 0px;
+}
+#services-area .services-wrapper{
+   
+margin-bottom: 30px;
+}
+#services-area .services-wrapper span{}
+#services-area .services-wrapper span i{
+    
+}
+#services-area .services-wrapper h5{
+ 
+  
+    
+}
+#services-area .services-wrapper h5 a{
+ 
+
+}
+#services-area .services-wrapper p{
+   
+}
+
+#services-area .services-wrapper .service-link {
+  
+}
+#services-area .services-wrapper .service-link  i{
+   
+}
+
+#services-area .services-wrapper:hover{
+   
+    
+}
+#services-area .services-wrapper:hover span i{
+    
+}
+#services-area .services-wrapper:hover h5 a{
+
+}
+#services-area .services-wrapper:hover p{
+    
+}
+#services-area .services-wrapper:hover .service-link{
+    
+}
+#services-area .services-wrapper:hover .service-link i{
+   
+}
+#services-area .active-wrapper{
+    
+   
+}
+#services-area .active-wrapper span i{
+ 
+   
+}
+#services-area .active-wrapper h5 a{
+    
+   
+}
+#services-area .active-wrapper p{
+    
+   
+}
+#services-area .active-wrapper .service-link{
+    
+   
+}
+#services-area .active-wrapper .service-link i{
+   
+   
+}
+/* services area end  */
+/* team area start  */
+#team-area{
+    
+padding: 50px 0px;
+}
+#team-area .team-image{}
+#team-area .team-image img{}
+#team-area .team-content{
+    
+margin: 13px 0px 0px  0px;
+    
+padding-left: 10px;
+}
+#team-area .team-content h2{
+   
+}
+#team-area .team-content p{
+    
+   
+}
+#team-area .team-content ul{
+ 
+}
+#team-area .team-content ul li{
+    
+   
+ 
+}
+#team-area .team-content ul li a{
+   
+}
+#team-area .team-content ul li i{
+    
+}
+#team-area .team-content a{
+    /* display: inline-block; */
+    /* width: 36%; */
+    /* display: block; */
+}
+
+#team-area .team-content ul li:nth-last-child(even){
+ 
+}
+#team-area .team-content ul li a:hover{
+  
+}
+#team-area .team-content ul li:hover i{
+   
+}
+/* team area end  */
+/* counter area start  */
+#counter-area{
+   
+padding: 50px 0px 0px  0px;
+}
+#counter-area .counter-inner{
+   
+margin-bottom: 50px;
+}
+#counter-area .counter-inner .counter-icon {
+  
+}
+#counter-area .counter-inner .counter-icon  i{
+   
+}
+#counter-area .counter-inner .counter-number{}
+#counter-area .counter-inner .counter-number span{
+  
+}
+#counter-area .counter-inner h5{
+  
+}
+/* counter area end  */
+/* about area start  */
+#about-area{
+ 
+padding: 50px 0px;
+}
+ .about-inner{
+  
+width: 100%;
+}
+ .about-inner h2{
+  
+font-size: 30px;
+}
+ .about-inner h2::after{
+   
+top: 53px;
+}
+ .about-inner p{}
+.about-wrapper{
+    
+}
+.about-wrapper .about-card{
+   
+margin-bottom: 20px;
+}
+.about-wrapper .about-card img{
+    
+}
+.about-wrapper .about-card .card-body{
+   
+}
+.about-wrapper .about-card .card-body .card-title{
+   
+}
+.about-wrapper .about-card .card-body .card-text{
+    
+}
+
+/* about area end  */
+/* price section start  */
+#price-section {
+
+padding: 50px 0px;
+}
+.price-wrapper{
+   
+}
+
+.price-wrapper .price-inner {
+  
+text-align: center;
+  
+margin-bottom: 20px;
+}
+.price-wrapper .price-inner  h5{
+  
+}
+.price-wrapper .price-inner  span{
+  
+}
+.price-wrapper .price-inner  span span{
+   
+
+   
+
+}
+.price-wrapper .price-inner  ul{
+  
+}
+.price-wrapper .price-inner ul li{
+ 
+}
+.price-wrapper .price-inner  ul li i{
+    
+display: none;
+}
+.price-wrapper .price-inner   .btn{
+ 
+}
+/* price section end  */
+/* support section start  */
+#support-area{
+}
+#support-area .support-img{}
+#support-area .support-img img{}
+#support-area .support-wrapper{
+   
+}
+#support-area .support-wrapper .support-content{}
+#support-area .support-wrapper .support-content h2{
+  
+}
+#support-area .support-wrapper .support-content p{
+  
+}
+#support-area .support-inner{
+   
+}
+#support-area .support-inner .support-innerright-content{
+ 
+margin-bottom: 17px;
+ 
+justify-content: start;
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon i{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-text{
+}
+#support-area .support-inner .support-innerright-content .support-inner-text h5{
+ 
+}
+#support-area .support-inner .support-innerright-content .support-inner-text p{
+   
+}
+/* support section end  */
+/* team member start  */
+#team-member{
+    
+padding: 50px 0px 20px 0px;
+}
+ .team-member-wrapper{
+   
+}
+ .team-member-wrapper .member-card{
+   
+margin-bottom: 30px;
+}
+ .team-member-wrapper .member-card .card-body{
+   
+   
+}
+ .team-member-wrapper .member-card img{}
+ .team-member-wrapper .member-card .member-overlay{
+   
+/* left: 32%; */
+   
+left: 35%;
+}
+ .team-member-wrapper .member-card:hover .member-overlay{
+   
+   
+   
+}
+ .team-member-wrapper .member-card .member-overlay span{
+   
+ 
+
+ 
+   
+}
+ .team-member-wrapper .member-card:hover .member-overlay span{
+   
+  
+}
+
+
+
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1){
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4){
+   
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1) i{
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2) i{
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3) i{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4) i{
+
+   
+    
+
+}
+
+ .team-member-wrapper .member-card .member-overlay span{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span i{
+ 
+}
+ .team-member-wrapper .member-card .member-overlay span i:hover{
+   
+
+}
+ .team-member-wrapper .member-card h5{}
+ .team-member-wrapper .member-card h5 p{}
+
+/* team member end  */
+/* project area start  */
+#project-area{
+    
+padding: 50px 0px;
+}
+ .project-wrapper{
+   
+}
+ .project-wrapper .project-inner{}
+ .project-wrapper .project-card{
+  
+}
+
+ .project-wrapper .project-card img{}
+ .project-wrapper .project-card .card-body{
+ 
+}
+.project-wrapper .project-card:hover .card-body{
+    
+}
+ .project-wrapper .project-card .card-body .card-title{
+   
+}
+ .project-wrapper .project-card .card-body .card-text{
+    
+}
+ .project-wrapper .project-card .project-card-footer {
+    
+
+}
+.project-wrapper .project-card .project-card-footer a{
+  
+}
+.project-wrapper .project-card:hover .project-card-footer {
+  
+}
+ .project-wrapper .project-card .project-card-footer a:hover{}
+/* project area end  */
+/* news area start  */
+#news-area{
+  
+padding: 50px 0px 20px 0px;
+}
+.news-area-wrapper{
+    
+}
+.news-area-wrapper .news-card{
+   
+margin-bottom: 30px;
+}
+
+.news-area-wrapper .news-card img{
+    
+   
+}
+.news-area-wrapper .news-card:hover img{
+ 
+    
+}
+.news-area-wrapper .news-card .card-body{
+   
+}
+.news-area-wrapper .news-card .card-body .news-comment{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child::after{
+   
+}
+.news-area-wrapper .news-card .card-body .news-comment span:last-child{
+
+}
+.news-area-wrapper .news-card .card-body h5{
+   
+}
+.news-area-wrapper .news-card .card-body h5:hover{
+
+  
+}
+.news-area-wrapper .news-card .card-body p{}
+.news-area-wrapper .news-card .card-footer{
+   
+}
+.news-area-wrapper .news-card .card-footer a{
+   
+}
+.news-area-wrapper .news-card .card-footer a:hover{}
+/* news area end  */
+/* subscribe area start  */
+#subscribe-area{
+   
+}
+.subscribe-wrapper{
+  
+}
+.subscribe-inner1{
+    margin-bottom: 19px;
+    text-align: center;
+}
+.subscribe-inner1 .inner1-heading{}
+.subscribe-inner1 .inner1-heading h5{
+    
+}
+.subscribe-inner1 .inner1-input{
+   
+}
+.subscribe-inner1 .inner1-input input{
+   
+padding: 10px 50px 10px 10px;
+}
+.subscribe-inner1 .inner1-input button{
+   
+padding: 10px 35px 10px 28px;
+}
+.subscribe-inner1 .inner1-input button:focus{
+  
+}
+.subscribe-inner2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.subscribe-inner2 .inner2-heading{}
+.subscribe-inner2 .inner2-heading h5{
+    
+}
+.subscribe-inner2 .inner2-info{}
+.subscribe-inner2 .inner2-info span:first-child{
+  
+}
+.subscribe-inner2 .inner2-info span:last-child{
+  
+}
+.subscribe-inner3{
+    text-align: center;
+}
+.subscribe-inner3 .inner3-heading{}
+.subscribe-inner3 .inner3-heading h5{
+   
+}
+.subscribe-inner3 .inner3-icon{
+   
+}
+.subscribe-inner3 .inner3-icon span{
+  
+}
+.subscribe-inner3 .inner3-icon span:hover{
+  
+}
+.subscribe-inner3 .inner3-icon span i{}
+.subscribe-inner3 .inner3-icon span i:hover{
+    
+}
+/* subscribe-area end  */
+/* footer area start  */
+#footer-area{
+  
+}
+.footer-wrapper{
+  
+}
+.footer-inner1{
+    
+text-align: center;
+    
+padding: 0px 80px;
+    
+margin-bottom: 30px;
+}
+.footer-inner1 h5{
+    
+}
+.footer-inner1 p{
+   
+}
+.footer-inner1 .footer-icon{}
+.footer-inner1 .footer-icon span{
+ 
+}
+.footer-inner1 .footer-icon span i{}
+.footer-inner1 .footer-icon span i:hover{}
+.footer-inner2{
+    text-align: center;
+    margin-bottom: 29px;
+}
+.footer-inner2 h5{
+   
+}
+.footer-inner2 .inner2-contact{
+    
+justify-content: start;
+    
+margin-left: 151px;
+}
+.footer-inner2 .inner2-contact .contact-icon{
+    margin-right: 18px;
+}
+.footer-inner2 .inner2-contact .contact-icon span{
+  
+}
+.footer-inner2 .inner2-contact .contact-icon span i{}
+.footer-inner2 .inner2-contact .inner2-content{
+    
+}
+.footer-inner2 .inner2-contact .inner2-content span{
+ 
+}
+.footer-inner2 .inner2-contact .inner2-content span:first-child{}
+.footer-inner2 .inner2-contact .inner2-content span:last-child{}
+.footer-inner3{
+  
+text-align: center;
+  
+margin-right: 0px;
+}
+.footer-inner3 h5{
+    
+}
+.footer-inner3 p{
+    
+}
+.footer-inner3 .footer-list{}
+.footer-inner3 .footer-list ul{}
+.footer-inner3 .footer-list ul li{
+   
+border: none;
+}
+.footer-inner3 .footer-list ul li a{
+    
+}
+.footer-inner3 .footer-list ul li a i{
+  
+display: none;
+}
+.footer-inner4{
+   
+text-align: center;
+   
+padding-right: 0px;
+}
+.footer-inner4 h5{
+    
+}
+.footer-inner4 .post-content{
+    
+margin-left: 0px;
+    
+flex-direction: column;
+}
+.footer-inner4 .post-content .post-left{}
+.footer-inner4 .post-content .post-left span:first-child{
+    
+}
+.footer-inner4 .post-content .post-left span:last-child{
+   
+}
+.footer-inner4 .post-content .post-right{
+    
+}
+.footer-inner4 .post-content .post-right h6{
+    
+}
+.footer-inner4 .post-content .post-right span{
+   
+}
+.footer-inner4 .post-content .post-right span i{}
+.footer-bottom{
+    
+}
+.footer-bottom .footer-last-content{
+    text-align: center;
+}
+.footer-bottom .footer-last-content p{}
+.footer-bottom .footer-last-list{
+    text-align: center;
+}
+.footer-bottom .footer-last-list ul{}
+.footer-bottom .footer-last-list ul li{
+    
+}
+.footer-bottom .footer-last-list ul li a{
+    
+}
+/* footer area end  */
+ 
+
+ }
+
+/* Medium device responsive  */
+@media only screen and (min-width:768px) and (max-width: 991px) { 
+    html,
+    html body,
+    body {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        overflow-x: hidden;
+    }
+
+  .container{
+      max-width: 100%;
+  }
+
+    .main-nav .container{
+        max-width: 100%;
+        padding: 0px;
+    }
+   
+    #header-area{}
+
+#header-area .main-header{
+   
+}
+
+ .main-header .main-header-wrapper{
+
+}
+.main-header .main-header-wrapper span{
+    
+}
+ .main-header .main-header-wrapper .main-left-content{
+  
+}
+ .main-header .main-header-wrapper .main-left-content .phone-icon{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span i{
+
+}
+ .main-header .main-header-wrapper .main-left-content .phone-number{
+   
+}
+
+ .main-header .main-header-wrapper .main-left-content .phone-number span{
+   
+}
+ .main-header .main-header-wrapper .main-md-content{
+    
+   
+}
+ .main-header .main-header-wrapper .main-md-content .message-icon{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span i{
+   
+}
+ .main-header .main-header-wrapper .main-md-content .email{
+    
+}
+ .main-header .main-header-wrapper .main-md-content .email span{}
+ .main-header .main-header-wrapper .main-right-content{
+    
+}
+ .main-header .main-header-wrapper .main-right-content span{
+   
+  
+}
+ .main-header .main-header-wrapper .main-right-content span i{
+   
+}
+.main-header .main-header-wrapper .main-right-content span i:hover{
+
+
+}
+.main-header .main-header-wrapper .main-right-content span:first-child{
+   
+}
+/* main header end  */
+/* main nav start  */
+.main-nav{
+    padding: 0px 0px;
+    max-width: 100%;
+}
+.main-nav .navbar{
+    
+}
+.main-nav .navbar .logo{
+    margin: auto;
+}
+.main-nav .navbar .logo a{}
+.main-nav .navbar .logo a img{}
+.main-nav .navbar button {
+    /* border: 0px; */
+    /* outline: 0; */
+    padding: 0;
+    color: white;
+    margin-right: 15px;
+}
+.main-nav .navbar button:focus{
+    outline: none;
+    border: 0;
+}
+.main-nav .navbar button span{
+    padding: 10px 15px;
+    display: inline-block;
+    border: 1px solid #ff5200;
+}
+.main-nav .navbar button span i{
+    color: #ff5200;
+}
+.main-nav .navbar .navbar-inner{
+    background-color: #222222;
+    margin-top: 6px;
+}
+.main-nav  .navbar-inner .navbar-nav{
+   
+margin: 0;
+}
+.main-nav  .navbar-inner .navbar-nav li {
+   
+/* margin-left: 20px; */
+   
+padding-left: 20px;
+   
+margin-left: 0px;
+   
+display: block;
+   
+border-bottom: 1px solid gray;
+}
+.main-nav  .navbar-inner .navbar-nav li a{
+   
+color: white;
+   
+padding: 15px 0px;
+   
+letter-spacing: 0px;
+   
+/* display: block; */
+   
+/* border-bottom: 1px solid; */
+   
+font-weight: 600;
+}
+.main-nav  .navbar-inner .navbar-nav li span{
+    /* display: inline-block; */
+    float: right;
+    margin-right: 14px;
+    margin-top: 12px;
+    border: 1px solid gray;
+}
+.main-nav  .navbar-inner .navbar-nav li span i{
+  
+display: inline-block;
+  
+padding: 6px 10px;
+  
+line-height: 1;
+  
+color: white;
+}
+
+
+.main-nav .navbar .navbar-inner .navbar-nav li  .dropdown-main{
+  
+background-color: #222222;
+  
+width: 100%;
+  
+top: 52px;
+  
+left: 0px;
+}
+.main-nav  .navbar-inner .navbar-nav li:hover  .dropdown-main{
+  
+ 
+   
+   
+
+}
+.dropdown-main ul li {
+    display: block;
+    /* margin-left: 38px !important; */
+    padding-left: 20px !important;
+}
+.dropdown-main li a{
+    
+}
+.dropdown-main li a:hover {
+    
+}
+.dropdown-main li::before{
+    
+}
+
+.dropdown-main li:hover::before{
+   
+    
+   
+}
+.dropdown-main li:hover{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li a{
+    
+}
+.main-nav .navbar .navbar-inner .navbar-nav li a span{}
+.main-nav .navbar .navbar-inner .navbar-nav li a span i{}
+.main-nav .navbar .navbar-inner .navbar-nav li a:hover{
+    
+}
+.header-search {
+    position: absolute;
+    top: 24px;
+    left: 15px;
+    width: 20px;
+    height: 20px;
+    line-height: 1;
+}
+
+.header-search a i {
+    color: #ff5200;
+}
+/* main nav end  */
+/* home section start  */
+#home{}
+#home .home-item{
+  
+padding: 50px 0px;
+}
+#home .home-item .home-inner{
+   
+width: 100%;
+}
+.home-active{
+    
+}
+.home-active .slick-dots{
+
+
+
+
+}
+.home-active .slick-dots li{
+
+
+}
+.home-active .slick-dots li.slick-active button{
+    
+}
+.home-active .slick-dots li button{
+  
+}
+#home .home-item .home-inner h2{
+    
+font-size: 34px;
+}
+#home .home-item .home-inner p{
+  
+}
+#home .home-item .home-inner a{
+   
+}
+/* home section end  */
+/* services area start  */
+#services-area{
+
+padding: 50px 0px 30px 0px;
+}
+#services-area .services-wrapper{
+   
+padding: 30px 28px;
+   
+margin-bottom: 30px;
+}
+#services-area .services-wrapper span{}
+#services-area .services-wrapper span i{
+    
+}
+#services-area .services-wrapper h5{
+ 
+  
+    
+}
+#services-area .services-wrapper h5 a{
+ 
+font-size: 17px;
+ 
+font-weight: 700;
+ 
+letter-spacing: 0px;
+}
+#services-area .services-wrapper p{
+   
+}
+
+#services-area .services-wrapper .service-link {
+  
+}
+#services-area .services-wrapper .service-link  i{
+   
+}
+
+#services-area .services-wrapper:hover{
+   
+    
+}
+#services-area .services-wrapper:hover span i{
+    
+}
+#services-area .services-wrapper:hover h5 a{
+
+}
+#services-area .services-wrapper:hover p{
+    
+}
+#services-area .services-wrapper:hover .service-link{
+    
+}
+#services-area .services-wrapper:hover .service-link i{
+   
+}
+#services-area .active-wrapper{
+    
+   
+}
+#services-area .active-wrapper span i{
+ 
+   
+}
+#services-area .active-wrapper h5 a{
+    
+   
+}
+#services-area .active-wrapper p{
+    
+   
+}
+#services-area .active-wrapper .service-link{
+    
+   
+}
+#services-area .active-wrapper .service-link i{
+   
+   
+}
+/* services area end  */
+/* team area start  */
+#team-area{
+    
+padding: 50px 0px;
+}
+#team-area .team-image{}
+#team-area .team-image img{}
+#team-area .team-content{
+    
+margin: 33px 0px 0px 10px;
+}
+#team-area .team-content h2{
+   
+font-size: 30px;
+   
+letter-spacing: 0px;
+   
+/* font-weight: 800; */
+}
+#team-area .team-content p{
+    
+   
+}
+#team-area .team-content ul{
+ 
+}
+#team-area .team-content ul li{
+    
+   
+ 
+}
+#team-area .team-content ul li a{
+   
+}
+#team-area .team-content ul li i{
+    
+}
+#team-area .team-content a{
+    padding: 12px 20px;
+}
+
+#team-area .team-content ul li:nth-last-child(even){
+ 
+}
+#team-area .team-content ul li a:hover{
+  
+}
+#team-area .team-content ul li:hover i{
+   
+}
+/* team area end  */
+/* counter area start  */
+#counter-area{
+   
+padding: 50px 0px;
+}
+#counter-area .counter-inner{
+   
+}
+#counter-area .counter-inner .counter-icon {
+  
+}
+#counter-area .counter-inner .counter-icon  i{
+   
+font-size: 40px;
+}
+#counter-area .counter-inner .counter-number{}
+#counter-area .counter-inner .counter-number span{
+  
+font-size: 40px;
+}
+#counter-area .counter-inner h5{
+  
+font-size: 20px;
+  
+font-weight: 800;
+}
+/* counter area end  */
+/* about area start  */
+#about-area{
+ 
+padding: 50px 0px;
+}
+ .about-inner{
+  
+width: 94%;
+}
+ .about-inner h2{
+  
+font-size: 30px;
+}
+ .about-inner h2::after{
+   
+top: 50px;
+}
+ .about-inner p{}
+.about-wrapper{
+    
+}
+.about-wrapper .about-card{
+   
+}
+.about-wrapper .about-card img{
+    
+}
+.about-wrapper .about-card .card-body{
+   
+}
+.about-wrapper .about-card .card-body .card-title{
+   
+font-size: 18px;
+}
+.about-wrapper .about-card .card-body .card-text{
+    
+}
+
+/* about area end  */
+/* price section start  */
+#price-section {
+
+padding: 50px 0px;
+}
+.price-wrapper{
+   
+}
+
+.price-wrapper .price-inner {
+  
+padding: 28px 0px 28px 10px;
+  
+margin: 0px;
+}
+.price-wrapper .price-inner  h5{
+  
+font-size: 25px;
+}
+.price-wrapper .price-inner  span{
+  
+font-size: 40px;
+}
+.price-wrapper .price-inner  span span{
+   
+
+   
+
+}
+.price-wrapper .price-inner  ul{
+  
+}
+.price-wrapper .price-inner ul li{
+ 
+font-size: 16px;
+}
+.price-wrapper .price-inner  ul li i{
+    
+
+}
+.price-wrapper .price-inner   .btn{
+ 
+padding: 16px 16px;
+ 
+display: inline-block;
+}
+/* price section end  */
+/* support section start  */
+#support-area{
+}
+#support-area .support-img{}
+#support-area .support-img img{}
+#support-area .support-wrapper{
+   
+padding: 30px 0px 0px 16px;
+}
+#support-area .support-wrapper .support-content{}
+#support-area .support-wrapper .support-content h2{
+  
+}
+#support-area .support-wrapper .support-content p{
+  
+}
+#support-area .support-inner{
+   
+}
+#support-area .support-inner .support-innerright-content{
+ 
+width: 85%;
+ 
+margin-bottom: 20px;
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon i{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-text{}
+#support-area .support-inner .support-innerright-content .support-inner-text h5{
+ 
+}
+#support-area .support-inner .support-innerright-content .support-inner-text p{
+   
+}
+/* support section end  */
+/* team member start  */
+#team-member{
+    
+padding: 50px 0px;
+}
+ .team-member-wrapper{
+   
+}
+ .team-member-wrapper .member-card{
+   
+}
+ .team-member-wrapper .member-card .card-body{
+   
+padding: 23px 0px 10px 0px;
+}
+ .team-member-wrapper .member-card img{}
+ .team-member-wrapper .member-card .member-overlay{
+   
+left: 8%;
+   
+bottom: 50%;
+}
+ .team-member-wrapper .member-card:hover .member-overlay{
+   
+   
+   
+}
+ .team-member-wrapper .member-card .member-overlay span{
+   
+ 
+
+ 
+   
+}
+ .team-member-wrapper .member-card:hover .member-overlay span{
+   
+  
+}
+
+
+
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1){
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4){
+   
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1) i{
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2) i{
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3) i{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4) i{
+
+   
+    
+
+}
+
+ .team-member-wrapper .member-card .member-overlay span{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span i{
+ 
+font-size: 12px;
+}
+ .team-member-wrapper .member-card .member-overlay span i:hover{
+   
+
+}
+ .team-member-wrapper .member-card h5{
+    font-size: 17px;
+}
+ .team-member-wrapper .member-card h5 p{}
+
+/* team member end  */
+/* project area start  */
+#project-area{
+    
+padding: 50px 0px;
+}
+ .project-wrapper{
+   
+}
+ .project-wrapper .project-inner{}
+ .project-wrapper .project-card{
+  
+}
+
+ .project-wrapper .project-card img{}
+ .project-wrapper .project-card .card-body{
+ 
+}
+.project-wrapper .project-card:hover .card-body{
+    
+}
+ .project-wrapper .project-card .card-body .card-title{
+   
+font-size: 17px;
+}
+ .project-wrapper .project-card .card-body .card-text{
+    
+}
+ .project-wrapper .project-card .project-card-footer {
+    
+
+}
+.project-wrapper .project-card .project-card-footer a{
+  
+}
+.project-wrapper .project-card:hover .project-card-footer {
+  
+}
+ .project-wrapper .project-card .project-card-footer a:hover{}
+/* project area end  */
+/* news area start  */
+#news-area{
+  
+padding: 50px 0px;
+}
+.news-area-wrapper{
+    
+}
+.news-area-wrapper .news-card{
+   
+}
+
+.news-area-wrapper .news-card img{
+    
+   
+}
+.news-area-wrapper .news-card:hover img{
+ 
+    
+}
+.news-area-wrapper .news-card .card-body{
+   
+padding: 5px 0px 5px 10px;
+}
+.news-area-wrapper .news-card .card-body .news-comment{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child{
+  
+font-size: 15px;
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child::after{
+   
+right: -20px;
+   
+width: 15px;
+}
+.news-area-wrapper .news-card .card-body .news-comment span:last-child{
+
+font-size: 15px;
+
+margin-left: 22px;
+}
+.news-area-wrapper .news-card .card-body h5{
+   
+font-size: 16px;
+}
+.news-area-wrapper .news-card .card-body h5:hover{
+
+  
+}
+.news-area-wrapper .news-card .card-body p{}
+.news-area-wrapper .news-card .card-footer{
+   
+padding: 10px 0px 10px 10px;
+}
+.news-area-wrapper .news-card .card-footer a{
+   
+}
+.news-area-wrapper .news-card .card-footer a:hover{}
+/* news area end  */
+/* subscribe area start  */
+#subscribe-area{
+   
+}
+.subscribe-wrapper{
+  
+padding: 20px 5px 20px 10px;
+}
+.subscribe-inner1{}
+.subscribe-inner1 .inner1-heading{
+    /* font-size: 16px; */
+}
+.subscribe-inner1 .inner1-heading h5{
+    
+font-size: 20px;
+}
+.subscribe-inner1 .inner1-input{
+   
+}
+.subscribe-inner1 .inner1-input input{
+   
+padding: 8px 0px 8px 8px;
+   
+font-size: 15px;
+}
+.subscribe-inner1 .inner1-input button{
+   
+right: 8px;
+   
+font-size: 15px;
+   
+padding: 9px 15px 8px 15px;
+}
+.subscribe-inner1 .inner1-input button:focus{
+  
+}
+.subscribe-inner2{}
+.subscribe-inner2 .inner2-heading{}
+.subscribe-inner2 .inner2-heading h5{
+    
+font-size: 20px;
+}
+.subscribe-inner2 .inner2-info{}
+.subscribe-inner2 .inner2-info span:first-child{
+  
+}
+.subscribe-inner2 .inner2-info span:last-child{
+  
+}
+.subscribe-inner3{}
+.subscribe-inner3 .inner3-heading{}
+.subscribe-inner3 .inner3-heading h5{
+   
+font-size: 20px;
+}
+.subscribe-inner3 .inner3-icon{
+   
+}
+.subscribe-inner3 .inner3-icon span{
+  
+margin-right: 3px;
+}
+.subscribe-inner3 .inner3-icon span:hover{
+  
+}
+.subscribe-inner3 .inner3-icon span i{}
+.subscribe-inner3 .inner3-icon span i:hover{
+    
+}
+/* subscribe-area end  */
+/* footer area start  */
+#footer-area{
+  
+}
+.footer-wrapper{
+  
+}
+.footer-inner1{
+    
+/* margin-right: 10px; */
+    
+padding: 0px 37px  0px 40px;
+    
+margin-bottom: 36px;
+}
+.footer-inner1 h5{
+    
+}
+.footer-inner1 p{
+   
+}
+.footer-inner1 .footer-icon{}
+.footer-inner1 .footer-icon span{
+ 
+}
+.footer-inner1 .footer-icon span i{}
+.footer-inner1 .footer-icon span i:hover{}
+.footer-inner2{
+    margin-bottom: 32px;
+}
+.footer-inner2 h5{
+   
+}
+.footer-inner2 .inner2-contact{
+    
+margin-bottom: 10px;
+    
+margin-right: 45px;
+}
+.footer-inner2 .inner2-contact .contact-icon{}
+.footer-inner2 .inner2-contact .contact-icon span{
+  
+}
+.footer-inner2 .inner2-contact .contact-icon span i{}
+.footer-inner2 .inner2-contact .inner2-content{
+    
+}
+.footer-inner2 .inner2-contact .inner2-content span{
+ 
+}
+.footer-inner2 .inner2-contact .inner2-content span:first-child{}
+.footer-inner2 .inner2-contact .inner2-content span:last-child{}
+.footer-inner3{
+  
+padding: 0px 10px 0px 40px;
+}
+.footer-inner3 h5{
+    
+}
+.footer-inner3 p{
+    
+}
+.footer-inner3 .footer-list{}
+.footer-inner3 .footer-list ul{}
+.footer-inner3 .footer-list ul li{
+   
+  
+}
+.footer-inner3 .footer-list ul li a{
+    
+}
+.footer-inner3 .footer-list ul li a i{
+  
+}
+.footer-inner4{
+   
+padding-right: 0px;
+}
+.footer-inner4 h5{
+    
+}
+.footer-inner4 .post-content{
+    
+margin-bottom: 51px;
+}
+.footer-inner4 .post-content .post-left{}
+.footer-inner4 .post-content .post-left span:first-child{
+    
+}
+.footer-inner4 .post-content .post-left span:last-child{
+   
+}
+.footer-inner4 .post-content .post-right{
+    
+margin-left: 22px;
+}
+.footer-inner4 .post-content .post-right h6{
+    
+}
+.footer-inner4 .post-content .post-right span{
+   
+}
+.footer-inner4 .post-content .post-right span i{}
+.footer-bottom{
+    
+}
+.footer-bottom .footer-last-content{
+    text-align: center;
+}
+.footer-bottom .footer-last-content p{}
+.footer-bottom .footer-last-list{}
+.footer-bottom .footer-last-list ul{}
+.footer-bottom .footer-last-list ul li{
+    
+margin-right: 7px;
+}
+.footer-bottom .footer-last-list ul li a{
+    
+}
+/* footer area end  */
+
+}
+ 
+
+/* Large device responsive  */
+@media only screen and (min-width:992px)and (max-width: 1199px) { 
+     html,
+    html body,
+    body {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        overflow-x: hidden;
+    } 
+
+#header-area{}
+
+#header-area .main-header{
+   
+}
+
+ .main-header .main-header-wrapper{
+
+}
+.main-header .main-header-wrapper span{
+    
+}
+ .main-header .main-header-wrapper .main-left-content{
+  
+padding: 0px 10px;
+}
+ .main-header .main-header-wrapper .main-left-content .phone-icon{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span{}
+ .main-header .main-header-wrapper .main-left-content .phone-icon span i{
+
+}
+ .main-header .main-header-wrapper .main-left-content .phone-number{
+   
+margin-left: 12px;
+}
+
+ .main-header .main-header-wrapper .main-left-content .phone-number span{
+   
+font-size: 14px;
+}
+ .main-header .main-header-wrapper .main-md-content{
+    
+   
+}
+ .main-header .main-header-wrapper .main-md-content .message-icon{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span{}
+ .main-header .main-header-wrapper .main-md-content .message-icon span i{
+   
+}
+ .main-header .main-header-wrapper .main-md-content .email{
+    
+}
+ .main-header .main-header-wrapper .main-md-content .email span{}
+ .main-header .main-header-wrapper .main-right-content{
+    
+margin-left: -20px;
+}
+ .main-header .main-header-wrapper .main-right-content span{
+   
+  
+}
+ .main-header .main-header-wrapper .main-right-content span i{
+   
+}
+.main-header .main-header-wrapper .main-right-content span i:hover{
+
+
+}
+.main-header .main-header-wrapper .main-right-content span:first-child{
+   
+}
+/* main header end  */
+/* main nav start  */
+.main-nav{}
+.main-nav .navbar{
+    
+}
+.main-nav .navbar .logo{}
+.main-nav .navbar .logo a{}
+.main-nav .navbar .logo a img{}
+.main-nav .navbar button {}
+.main-nav .navbar button span{}
+.main-nav .navbar button span i{}
+.main-nav .navbar .navbar-inner{}
+.main-nav  .navbar-inner .navbar-nav{
+   
+   
+}
+.main-nav  .navbar-inner .navbar-nav li {
+   
+margin-left: 15px;
+}
+.main-nav  .navbar-inner .navbar-nav li a{
+   
+letter-spacing: 0px;
+   
+font-weight: 700;
+}
+
+
+.main-nav .navbar .navbar-inner .navbar-nav li  .dropdown-main{
+  
+}
+.main-nav  .navbar-inner .navbar-nav li:hover  .dropdown-main{
+  
+ 
+   
+   
+
+}
+.dropdown-main li{
+   
+ 
+   
+}
+.dropdown-main li a{
+    
+}
+.dropdown-main li a:hover {
+    
+}
+.dropdown-main li::before{
+    
+}
+
+.dropdown-main li:hover::before{
+   
+    
+   
+}
+.dropdown-main li:hover{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li{
+   
+}
+.main-nav .navbar .navbar-inner .navbar-nav li  ul li a{
+    
+}
+.main-nav .navbar .navbar-inner .navbar-nav li a span{}
+.main-nav .navbar .navbar-inner .navbar-nav li a span i{}
+.main-nav .navbar .navbar-inner .navbar-nav li a:hover{
+    
+}
+.header-search {
+    position: absolute;
+    right: 0px;
+    /* top: 37px; */
+}
+
+.header-search a i {
+    color: #000;
+}
+/* main nav end  */
+/* home section start  */
+#home{}
+#home .home-item{
+  
+padding: 100px 0px;
+}
+#home .home-item .home-inner{
+   
+width: 100%;
+}
+.home-active{
+    
+}
+.home-active .slick-dots{
+
+
+
+
+}
+.home-active .slick-dots li{
+
+
+}
+.home-active .slick-dots li.slick-active button{
+    
+}
+.home-active .slick-dots li button{
+  
+}
+#home .home-item .home-inner h2{
+    
+font-size: 37px;
+}
+#home .home-item .home-inner p{
+  
+}
+#home .home-item .home-inner a{
+   
+}
+/* home section end  */
+/* services area start  */
+#services-area{
+
+}
+#services-area .services-wrapper{
+   
+padding: 30px 14px;
+}
+#services-area .services-wrapper span{}
+#services-area .services-wrapper span i{
+    
+}
+#services-area .services-wrapper h5{
+ 
+line-height: 1;
+}
+#services-area .services-wrapper h5 a{
+ 
+font-size: 19px;
+ 
+color: #333333;
+ 
+font-weight: 700;
+}
+#services-area .services-wrapper p{
+   
+}
+
+#services-area .services-wrapper .service-link {
+  
+}
+#services-area .services-wrapper .service-link  i{
+   
+}
+
+#services-area .services-wrapper:hover{
+   
+    
+}
+#services-area .services-wrapper:hover span i{
+    
+}
+#services-area .services-wrapper:hover h5 a{
+
+}
+#services-area .services-wrapper:hover p{
+    
+}
+#services-area .services-wrapper:hover .service-link{
+    
+}
+#services-area .services-wrapper:hover .service-link i{
+   
+}
+#services-area .active-wrapper{
+    
+   
+}
+#services-area .active-wrapper span i{
+ 
+   
+}
+#services-area .active-wrapper h5 a{
+    
+   
+}
+#services-area .active-wrapper p{
+    
+   
+}
+#services-area .active-wrapper .service-link{
+    
+   
+}
+#services-area .active-wrapper .service-link i{
+   
+   
+}
+/* services area end  */
+/* team area start  */
+#team-area{
+    
+}
+#team-area .team-image{}
+#team-area .team-image img{}
+#team-area .team-content{
+    
+margin: 0px 0px 0px 10px;
+}
+#team-area .team-content h2{
+   
+line-height: 1;
+}
+#team-area .team-content p{
+    
+font-size: 16px;
+    
+line-height: 1.5;
+    
+margin-bottom: 0px;
+}
+#team-area .team-content ul{
+ 
+margin: 0px 0px;
+}
+#team-area .team-content ul li{
+    
+   
+ 
+}
+#team-area .team-content ul li a{
+   
+font-size: 15px;
+}
+#team-area .team-content ul li i{
+    
+}
+#team-area .team-content a{
+    display: inline-block;
+    margin-top: 9px;
+}
+
+#team-area .team-content ul li:nth-last-child(even){
+ 
+/* margin-left: 0px; */
+ 
+width: 54%;
+ 
+margin-right: 0px;
+ 
+padding: 2px 0px;
+}
+#team-area .team-content ul li a:hover{
+  
+}
+#team-area .team-content ul li:hover i{
+   
+}
+/* team area end  */
+/* counter area start  */
+#counter-area{
+   
+}
+#counter-area .counter-inner{
+   
+}
+#counter-area .counter-inner .counter-icon {
+  
+}
+#counter-area .counter-inner .counter-icon  i{
+   
+font-size: 50px;
+}
+#counter-area .counter-inner .counter-number{}
+#counter-area .counter-inner .counter-number span{
+  
+font-size: 50px;
+}
+#counter-area .counter-inner h5{
+  
+font-size: 20px;
+}
+/* counter area end  */
+/* about area start  */
+#about-area{
+ 
+}
+ .about-inner{
+  
+}
+ .about-inner h2{
+  
+}
+ .about-inner h2::after{
+   
+   
+   
+}
+ .about-inner p{}
+.about-wrapper{
+    
+}
+.about-wrapper .about-card{
+   
+}
+.about-wrapper .about-card img{
+    
+}
+.about-wrapper .about-card .card-body{
+   
+}
+.about-wrapper .about-card .card-body .card-title{
+   
+}
+.about-wrapper .about-card .card-body .card-text{
+    
+font-size: 16px;
+}
+
+/* about area end  */
+/* price section start  */
+#price-section {
+
+}
+.price-wrapper{
+   
+}
+
+.price-wrapper .price-inner {
+  
+padding-left: 23px;
+}
+.price-wrapper .price-inner  h5{
+  
+font-size: 25px;
+}
+.price-wrapper .price-inner  span{
+  
+font-size: 48px;
+}
+.price-wrapper .price-inner  span span{
+   
+
+   
+
+}
+.price-wrapper .price-inner  ul{
+  
+}
+.price-wrapper .price-inner ul li{
+ 
+font-size: 15px;
+}
+.price-wrapper .price-inner  ul li i{
+    
+
+}
+.price-wrapper .price-inner   .btn{
+ 
+padding: 16px 30px;
+}
+/* price section end  */
+/* support section start  */
+#support-area{
+}
+#support-area .support-img{}
+#support-area .support-img img{
+    min-height: 542px;
+}
+#support-area .support-wrapper{
+   
+padding: 20px 10px 0px 26px;
+}
+#support-area .support-wrapper .support-content{}
+#support-area .support-wrapper .support-content h2{
+  
+}
+#support-area .support-wrapper .support-content p{
+  
+font-size: 16px;
+}
+#support-area .support-inner{
+   
+margin-top: 10px;
+}
+#support-area .support-inner .support-innerright-content{
+ 
+justify-content: start;
+ 
+margin-bottom: 15px;
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon{
+   
+}
+#support-area .support-inner .support-innerright-content .support-inner-icon i{
+   
+font-size: 50px;
+}
+#support-area .support-inner .support-innerright-content .support-inner-text{}
+#support-area .support-inner .support-innerright-content .support-inner-text h5{
+ 
+margin-bottom: 10px;
+}
+#support-area .support-inner .support-innerright-content .support-inner-text p{
+   
+}
+/* support section end  */
+/* team member start  */
+#team-member{
+    
+}
+ .team-member-wrapper{
+   
+}
+ .team-member-wrapper .member-card{
+   
+}
+ .team-member-wrapper .member-card .card-body{
+   
+   
+}
+ .team-member-wrapper .member-card img{}
+ .team-member-wrapper .member-card .member-overlay{
+   
+}
+ .team-member-wrapper .member-card:hover .member-overlay{
+   
+   
+   
+}
+ .team-member-wrapper .member-card .member-overlay span{
+   
+ 
+
+ 
+   
+}
+ .team-member-wrapper .member-card:hover .member-overlay span{
+   
+  
+}
+
+
+
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1){
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3){
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4){
+   
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(1) i{
+    
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(2) i{
+   
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(3) i{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span:nth-child(4) i{
+
+   
+    
+
+}
+
+ .team-member-wrapper .member-card .member-overlay span{
+
+
+}
+ .team-member-wrapper .member-card .member-overlay span i{
+ 
+}
+ .team-member-wrapper .member-card .member-overlay span i:hover{
+   
+
+}
+ .team-member-wrapper .member-card h5{}
+ .team-member-wrapper .member-card h5 p{}
+
+/* team member end  */
+/* project area start  */
+#project-area{
+    
+}
+ .project-wrapper{
+   
+}
+ .project-wrapper .project-inner{}
+ .project-wrapper .project-card{
+  
+}
+
+ .project-wrapper .project-card img{}
+ .project-wrapper .project-card .card-body{
+ 
+}
+.project-wrapper .project-card:hover .card-body{
+    
+}
+ .project-wrapper .project-card .card-body .card-title{
+   
+}
+ .project-wrapper .project-card .card-body .card-text{
+    
+}
+ .project-wrapper .project-card .project-card-footer {
+    
+
+}
+.project-wrapper .project-card .project-card-footer a{
+  
+}
+.project-wrapper .project-card:hover .project-card-footer {
+  
+}
+ .project-wrapper .project-card .project-card-footer a:hover{}
+/* project area end  */
+/* news area start  */
+#news-area{
+  
+}
+.news-area-wrapper{
+    
+}
+.news-area-wrapper .news-card{
+   
+}
+
+.news-area-wrapper .news-card img{
+    
+   
+}
+.news-area-wrapper .news-card:hover img{
+ 
+    
+}
+.news-area-wrapper .news-card .card-body{
+   
+padding: 20px 0px 10px 10px;
+}
+.news-area-wrapper .news-card .card-body .news-comment{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child{
+  
+}
+.news-area-wrapper .news-card .card-body .news-comment span:first-child::after{
+   
+}
+.news-area-wrapper .news-card .card-body .news-comment span:last-child{
+
+}
+.news-area-wrapper .news-card .card-body h5{
+   
+}
+.news-area-wrapper .news-card .card-body h5:hover{
+
+  
+}
+.news-area-wrapper .news-card .card-body p{}
+.news-area-wrapper .news-card .card-footer{
+   
+padding: 0px 0px 15px 10px;
+}
+.news-area-wrapper .news-card .card-footer a{
+   
+}
+.news-area-wrapper .news-card .card-footer a:hover{}
+/* news area end  */
+/* subscribe area start  */
+#subscribe-area{
+   
+}
+.subscribe-wrapper{
+  
+}
+.subscribe-inner1{}
+.subscribe-inner1 .inner1-heading{}
+.subscribe-inner1 .inner1-heading h5{
+    
+}
+.subscribe-inner1 .inner1-input{
+   
+}
+.subscribe-inner1 .inner1-input input{
+   
+padding: 10px 5px;
+}
+.subscribe-inner1 .inner1-input button{
+   
+right: 10px;
+}
+.subscribe-inner1 .inner1-input button:focus{
+  
+}
+.subscribe-inner2{}
+.subscribe-inner2 .inner2-heading{}
+.subscribe-inner2 .inner2-heading h5{
+    
+}
+.subscribe-inner2 .inner2-info{}
+.subscribe-inner2 .inner2-info span:first-child{
+  
+}
+.subscribe-inner2 .inner2-info span:last-child{
+  
+/* font-size: 16px; */
+}
+.subscribe-inner3{}
+.subscribe-inner3 .inner3-heading{}
+.subscribe-inner3 .inner3-heading h5{
+   
+}
+.subscribe-inner3 .inner3-icon{
+   
+}
+.subscribe-inner3 .inner3-icon span{
+  
+}
+.subscribe-inner3 .inner3-icon span:hover{
+  
+}
+.subscribe-inner3 .inner3-icon span i{}
+.subscribe-inner3 .inner3-icon span i:hover{
+    
+}
+/* subscribe-area end  */
+/* footer area start  */
+#footer-area{
+  
+}
+.footer-wrapper{
+  
+}
+.footer-inner1{
+    
+padding: 0px;
+}
+.footer-inner1 h5{
+    
+}
+.footer-inner1 p{
+   
+}
+.footer-inner1 .footer-icon{}
+.footer-inner1 .footer-icon span{
+ 
+}
+.footer-inner1 .footer-icon span i{}
+.footer-inner1 .footer-icon span i:hover{}
+.footer-inner2{}
+.footer-inner2 h5{
+   
+}
+.footer-inner2 .inner2-contact{
+    
+/* justify-content: flex-start; */
+    
+margin-bottom: 40px;
+}
+.footer-inner2 .inner2-contact .contact-icon{}
+.footer-inner2 .inner2-contact .contact-icon span{
+  
+}
+.footer-inner2 .inner2-contact .contact-icon span i{}
+.footer-inner2 .inner2-contact .inner2-content{
+    
+margin-right: 0px;
+    
+margin-left: 8px;
+}
+.footer-inner2 .inner2-contact .inner2-content span{
+ 
+font-size: 15px;
+}
+.footer-inner2 .inner2-contact .inner2-content span:first-child{}
+.footer-inner2 .inner2-contact .inner2-content span:last-child{}
+.footer-inner3{
+  
+}
+.footer-inner3 h5{
+    
+}
+.footer-inner3 p{
+    
+}
+.footer-inner3 .footer-list{}
+.footer-inner3 .footer-list ul{}
+.footer-inner3 .footer-list ul li{
+   
+  
+}
+.footer-inner3 .footer-list ul li a{
+    
+}
+.footer-inner3 .footer-list ul li a i{
+  
+}
+.footer-inner4{
+   
+padding-right: 0px;
+}
+.footer-inner4 h5{
+    
+}
+.footer-inner4 .post-content{
+    
+margin-bottom: 40px;
+}
+.footer-inner4 .post-content .post-left{}
+.footer-inner4 .post-content .post-left span:first-child{
+    
+}
+.footer-inner4 .post-content .post-left span:last-child{
+   
+}
+.footer-inner4 .post-content .post-right{
+    
+}
+.footer-inner4 .post-content .post-right h6{
+    
+}
+.footer-inner4 .post-content .post-right span{
+   
+font-size: 15px;
+}
+.footer-inner4 .post-content .post-right span i{}
+.footer-bottom{
+    
+}
+.footer-bottom .footer-last-content{}
+.footer-bottom .footer-last-content p{}
+.footer-bottom .footer-last-list{}
+.footer-bottom .footer-last-list ul{}
+.footer-bottom .footer-last-list ul li{
+    
+margin-right: 10px;
+}
+.footer-bottom .footer-last-list ul li a{
+    
+}
+/* footer area end  */
+
+
+   
+}
+
+/* Extra Large device responsive  */
+@media only screen and  (min-width:1200px)and (max-width: 1399px) { 
+    html,
+    html body,
+    body {
+        width: 100% !important;
+        min-width: 0 !important;
+        max-width: none !important;
+        overflow-x: hidden;
+    }
+    
+  
+ }
